@@ -5,10 +5,6 @@ An ATM inspired banking app made to manage individual accounts and transfers.
 # Technologies Used
 HTML5, CSS3 & JavaScript
 
-<h1 align="center">
-    <img src="github/main.png"/>
-</h1>
-
 # Important
 ## :key: Demo
 
